@@ -25,3 +25,6 @@ Format password: merupakan kombinasi dari huruf kecil, huruf besar minimal satu 
 
 # Soal No.3
 Buatlah sebuah fungsi untuk membagi sebuah array pada parameter pertama menjadi sub sub array dengan isi masing-masing sub array sesuai parameter kedua.
+
+# Soal No.4
+Buatlah fungsi/method untuk memvalidasi input parameter yang diberikan merupakan kode hex yang valid atau tidak.
