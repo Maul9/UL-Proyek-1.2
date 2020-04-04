@@ -22,3 +22,6 @@ Format password: merupakan kombinasi dari huruf kecil, huruf besar minimal satu 
 *console.log(is_password_valid('passW0rd='));*
 *console.log(is_password_valid('Cuci#Tangan'));*
 *console.log(is_password_valid('#DirumahAj4'));*
+
+# Soal No.3
+Buatlah sebuah fungsi untuk membagi sebuah array pada parameter pertama menjadi sub sub array dengan isi masing-masing sub array sesuai parameter kedua.
