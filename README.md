@@ -28,3 +28,6 @@ Buatlah sebuah fungsi untuk membagi sebuah array pada parameter pertama menjadi 
 
 # Soal No.4
 Buatlah fungsi/method untuk memvalidasi input parameter yang diberikan merupakan kode hex yang valid atau tidak.
+
+# Soal No.5
+Buatlah sebuah fungsi/method yang hanya menerima parameter "string", lalu menentukan karakter apa saja yang berulang dan berapa banyak karakter yang berulang tersebut. Buatlah pengecekan parameter.
