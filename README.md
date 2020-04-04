@@ -31,3 +31,10 @@ Buatlah fungsi/method untuk memvalidasi input parameter yang diberikan merupakan
 
 # Soal No.5
 Buatlah sebuah fungsi/method yang hanya menerima parameter "string", lalu menentukan karakter apa saja yang berulang dan berapa banyak karakter yang berulang tersebut. Buatlah pengecekan parameter.
+
+# Soal No.6
+Buatlah project berdasarkan ketentuan dibawah ini:
+  - Buatlah database dengan tabel Product, Category, dan Cashier. Dalam tabel Product terdapat kolom id, name, price,     id_category, dan id_cashier. Di tabel Category hanya terdapat kolom id dan name. Sedangkan di tabel Cashier terdapat kolom id dan name.
+  Note: Gantilah Nama Anda dan Makanan Favorit anda dengan nama anda dan makanan favorit anda.
+  - Buatlah sebuah tampilan Website sesuai dengan mockup di figma https://www.figma.com/file/IHRk44f4aM8C2KXIvPNnoa/POS-App-Test-(Copy) menggunakan data statik dengan HTML, CSS, dan JS. Boleh menggunakan Bootstrap, Material UI, atau yang lainnya. HARUS DIPISAH (BERBEDA FILE/FOLDER) DENGAN NOMOR 6.C DAN SERTAKAN SCREENSHOT!
+  - Buatlah sebuah tampilan Website sesuai dengan mockup di figma pada point 6.B menggunakan data dinamis yang berasal dari point 6.A  serta ditambahkan fitur CRUD ke database pada point 6.A. SERTAKAN SCREENSHOT!
