@@ -1,4 +1,4 @@
-# UL-Proyek-1.
+# UL-Proyek-1.2
 ------------------
 # Arkademy Bootcamp
 # Penjelasan dan aplikasi yg dipakai
